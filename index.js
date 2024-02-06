@@ -1,4 +1,4 @@
-module.exports = splitCamelCase = string=> {
+module.exports = splitCamel = string=> {
     if(string.length === 0) return string
     let regEx = /[A-Z]/g, indices = [], res = string.slice().split('')
     while ((match = regEx.exec(string)) != null) indices.push(match.index)  
