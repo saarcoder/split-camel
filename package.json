@@ -1,0 +1,23 @@
+{
+  "name": "split-camel-case",
+  "version": "1.0.0",
+  "description": "Split apart camelCase in string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saarcoder/split-camel-case.git"
+  },
+  "keywords": [],
+  "author": "Alex Kimoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saarcoder/split-camel-case/issues"
+  },
+  "homepage": "https://github.com/saarcoder/split-camel-case",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
